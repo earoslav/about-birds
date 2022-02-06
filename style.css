@@ -1,0 +1,82 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    margin: 20px 10px 0px 10px;
+}
+.gallery {
+    background-color: lightgray;
+    padding: 25px;
+}
+.first {
+    width: 50px;
+    height: 50px;
+}
+.second {
+    margin: 0px 40px 20px 40px;
+    padding: 4px;
+    background-color: rgb(0, 183, 255);
+    text-decoration: none;
+}
+.three {
+    margin: 0px 40px 20px 40px;
+    padding: 4px;
+    background-color: rgb(0, 183, 255);
+    text-decoration: none;
+}
+.four {
+    margin: 0px 40px 20px 40px;
+    padding: 4px;
+    background-color: rgb(0, 183, 255);
+    text-decoration: none;
+}
+header nav {
+    margin-bottom: 30px;
+}
+.five {
+    width: 180px;
+    height: 130px;
+    padding: 0px;
+}
+.six {
+    width: 130px;
+    height: 160px;
+    margin: 30px 40px 0px 40px;
+}
+.seven {
+    width: 180px;
+    height: 130px;
+}
+.eight {
+    width: 180px;
+    height: 130px;
+    margin:6px;
+}
+.nine {
+    width: 180px;
+    height: 130px;
+    margin: 6px;
+}
+.ten {
+    width: 180px;
+    height: 130px;
+    margin: 6px;
+}
+footer {
+    background: lightblue;
+    padding: 5px 10px 5px 10px;
+}
+footer p {
+    background-color: white;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.eleven {
+    background-color: blue;
+    padding: 10px;
+}
